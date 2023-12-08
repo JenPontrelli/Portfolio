@@ -1,0 +1,13 @@
+h1#site-title {
+  font-size:72px;
+  color: charcoal;
+  font-weight: bold;
+  font: helvetica;
+}
+
+header p {
+  font-size: 48px;
+  color: #818589;
+  font-weight: bold;
+  font: helvetica;
+}
