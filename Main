@@ -2,6 +2,7 @@
 <html lang="en-US">
   <head>
     <title>My academic and professional portfolio.</title>
+    <link href="stylesheet.css" rel="stylesheet" />
   </head>
   <body>
     <header>
