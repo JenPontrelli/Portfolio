@@ -11,10 +11,17 @@
         <p>MLIS, 2024</p>
   <nav>
     <ul>
-      <li>About</li>
       <li>Resume/CV</li>
       <li>Artifacts</li>
       <li>Contact</li>
     </ul>
   </nav>
   </header>
+  <main>
+    <h1 id="article-title">Welcome to My Portfolio</h1>
+    <p>
+      My name is Jen, and I am an MLIS student at Dominican University with an intended graduation date of May 2024. The artifacts contained in this portfolio showcase my aptitude in the key competencies in librarianship as well as my passion for education, literacy, inclusion, and public service.<br>
+      Throughout my studies I've had the opportunity to explore many facets of the profession, but have continually found myself drawn to public librarianship with particular interest in the areas of user services, reference, outreach, digital inclusion, readers' advisory, literacy, and social justice. These artifacts represent not just an understanding of these competencies, but the beginning and middle of a conversation in how to best serve patrons and community in a public library setting.
+    </p>
+
+  </main>
