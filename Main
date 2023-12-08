@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <title>My academic and professional portfolio.</title>
+  </head>
+  <body>
+    <header>
+      <div class="container"></div>
+        <h1 id="site-title">Jen Pontrelli</h1>
+        <p>MLIS, 2024</p>
+  <nav>
+    <ul>
+      <li>About</li>
+      <li>Resume/CV</li>
+      <li>Examples of Coursework</li>
+      <li>Contact</li>
+    </ul>
+  </nav>
+  </header>
