@@ -84,11 +84,11 @@ hr {
   margin: 20px 0;
 }
 
-.section-goals h2 {
+.section-goals h2:nth-of-type(1) {
   padding: 20px;
 }
 
-.section-goals p {
+.section-goals p:nth-of-type(2){
   margin-bottom: 15px;
   padding: 0 20px;
 }
