@@ -89,6 +89,22 @@ hr {
   padding: 50px;
 }
 
+.section-goals h2{
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.section-goals p{
+  margin-bottom: 20px;
+  width: 40%;
+}
+
+.section-artifacts {
+  padding: 50px;
+  padding-right: 400px;
+  padding-left: 400px;
+}
+
 footer {
   display: flex;
   justify-content: space-between;
