@@ -12,7 +12,7 @@ header{
   text-align: center;
   font-size: 35px;
   color: white;
-  justify-content: center;
+  margin: auto;
 }
 
 nav {
@@ -38,7 +38,7 @@ nav ul li a {
 .main-image {
   float: left;
   height: auto;
-  width: 50%;
+  max-width: 100%;
   display:block;
   margin: 0 auto;
 }
