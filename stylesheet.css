@@ -81,16 +81,12 @@ figcaption {
 hr {
   border: none;
   border-top: 1px solid #ccc;
-  margin: 20px 0;
+  width: 80%;
+  margin: 20px auto;
 }
 
-.section-goals h2:nth-of-type(1) {
-  padding: 20px;
-}
-
-.section-goals p:nth-of-type(2){
-  margin-bottom: 15px;
-  padding: 50x;
+.section-goals {
+  padding: 50px;
 }
 
 footer {
