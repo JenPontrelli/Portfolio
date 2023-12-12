@@ -1,37 +1,18 @@
-h1#site-title {
-  font-size:72px;
-  color: charcoal;
-  font-weight: bold;
-  font-family: Arial, Helvetica, sans-serif;
-}
-
-header p {
-  font-size: 48px;
-  color: #818589;
-  font-weight: bold;
-  font-family: Arial, Helvetica, sans-serif;
-}
-
 * {
-  margin: 0;
-  padding: 0;
   box-sizing: border-box;
 }
 
 body {
   font-family: Arial, Helvetica, sans-serif;
-  background-color: #f2f2f2;
 }
 
-header {
-  background-color: #333;
-  color: #fff;
-  padding: 20px;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
+header{
+  background-color: #899499;
+  padding: 30px;
+  text-align: center;
+  font-size: 35px;
+  color: white;
 }
-
 
 nav ul {
   list-style: none;
@@ -40,19 +21,3 @@ nav ul {
   display: flex;
 }
 
-nav ul li {
-  margin-right: 15px;
-}
-
-nav a {
-  text-decoration: none;
-  color: #fff;
-}
-
-nav a:hover {
-  text-decoration: underline;
-}
-
-nav a.active {
-  font-weight: bold;
-}
