@@ -12,6 +12,7 @@ header{
   text-align: center;
   font-size: 35px;
   color: white;
+  justify-content: center;
 }
 
 nav ul {
