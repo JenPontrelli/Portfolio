@@ -36,7 +36,7 @@ nav li {
 }
 
 nav a {
-  font-family: sans-serif
+  font-family: sans-serif;
   height: 40%;
   line-height:40%;
   color: #fff;
@@ -47,7 +47,7 @@ nav a:hover {
 }
 
 nav a.active {
-  bckground-color: #eee;
+  background-color: #eee;
   color: #444;
   cursor: default;
 }
